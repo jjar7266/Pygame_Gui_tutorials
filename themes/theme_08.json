@@ -1,0 +1,75 @@
+{
+    "defaults": {
+        "font": {
+            "name": "fira_code",
+            "size": 16
+        },
+        "colours": {
+            "normal_bg": "#1e1e1e",
+            "normal_text": "#ffffff",
+            "hover_bg": "#2a2a2a",
+            "hover_text": "#ffffff",
+            "selected_bg": "#3a3a3a",
+            "selected_text": "#ffffff",
+            "disabled_bg": "#555555",
+            "disabled_text": "#aaaaaa"
+        },
+        "misc": {
+            "border_width": 2,
+            "shadow_width": 4,
+            "shape": "rounded_rectangle",
+            "roundness": 6
+        }
+    },
+
+    "UIButton": {
+        "colours": {
+            "normal_bg": "#3b82f6",
+            "hover_bg": "#60a5fa",
+            "selected_bg": "#2563eb",
+            "normal_text": "#ffffff"
+        }
+    },
+
+    "#notify_button": {
+        "colours": {
+            "normal_bg": "#22c55e",
+            "hover_bg": "#4ade80",
+            "selected_bg": "#16a34a"
+        }
+    },
+
+    "#toast_button": {
+        "colours": {
+            "normal_bg": "#f97316",
+            "hover_bg": "#fb923c",
+            "selected_bg": "#ea580c"
+        }
+    },
+
+    "UIMessageWindow": {
+        "colours": {
+            "normal_bg": "#1e293b",
+            "normal_text": "#ffffff",
+            "title_bar_bg": "#334155",
+            "title_bar_text": "#ffffff"
+        },
+        "misc": {
+            "border_width": 2,
+            "shadow_width": 6,
+            "roundness": 8
+        }
+    },
+
+    "notification": {
+        "colours": {
+            "normal_bg": "#0f172a",
+            "normal_text": "#ffffff"
+        },
+        "misc": {
+            "border_width": 2,
+            "shadow_width": 4,
+            "roundness": 6
+        }
+    }
+}

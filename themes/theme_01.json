@@ -1,0 +1,29 @@
+{
+    "button": {
+        "misc": {
+            "border_width": "1",
+            "shadow_width": "2"
+        }
+    },
+
+    "@friendly_buttons": {
+        "misc": {
+            "shape": "rounded_rectangle",
+            "shadow_width": "5"
+
+        },
+        "colours": {
+            "normal_bg": "#3A6EA5",
+            "hover_bg": "#4A8EDS",
+            "selected_bg": "#2A4E75"
+
+        }
+
+    },
+
+    "#hello_button": {
+        "misc": {
+            "text_horiz_alignment": "left"
+        }
+    }
+}

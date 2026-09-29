@@ -1,0 +1,33 @@
+{
+    "button": {
+        "misc": {
+            "border_width": "1",
+            "shadow_width": "4",
+            "shape": "rounded_rectangle",
+            "shape_corner_radius": 8
+        },
+        "colours": {
+            "normal_bg": "#6A00FF",
+            "hover_bg": "#7F2BFF",
+            "selected_bg": "#4B00B5",
+            "normal_text": "#FFFFFF"
+        }
+    },
+
+    "@friendly_buttons": {
+        "misc": {
+            "shadow_width": "6"
+        },
+        "colours": {
+            "normal_bg": "#00D1FF",
+            "hover_bg": "#33DDFF",
+            "selected_bg": "#0099CC"
+        }
+    },
+
+    "#hello_button": {
+        "misc": {
+            "text_horiz_alignment": "center"
+        }
+    }
+}

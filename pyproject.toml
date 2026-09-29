@@ -1,0 +1,11 @@
+[project]
+name = "pygame-gui-lessons"
+version = "1.0.0"
+dependencies = [
+    "pygame-ce==2.5.8",
+    "pygame-gui==0.6.10",
+    "python-i18n==0.3.9",
+]
+
+[tool.uv]
+upgrade = false

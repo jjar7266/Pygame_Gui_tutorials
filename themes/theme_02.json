@@ -1,0 +1,23 @@
+{
+    "@friendly_buttons": {
+        "colours": {
+            "normal_bg": "#4CAF50",
+            "hover_bg": "66BB6A",
+            "selected_bg": "#388E3C"
+        }
+    },
+
+    "@unfriendly_buttons": {
+        "colours": {
+            "normal_bg": "#AA0000",
+            "hover_bg": "#CC0000",
+            "selected_bg": "#880000"
+        }
+    },
+
+    "#mean_button": {
+        "misc": {
+            "text_horiz_alignment": "center"
+        }
+    }
+}
